@@ -1,0 +1,12 @@
+E:\sampleC#\BankProject\HelperProject\bin\Debug\net6.0\HelperProject.deps.json
+E:\sampleC#\BankProject\HelperProject\bin\Debug\net6.0\HelperProject.dll
+E:\sampleC#\BankProject\HelperProject\bin\Debug\net6.0\HelperProject.pdb
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\HelperProject.csproj.AssemblyReference.cache
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\HelperProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\HelperProject.AssemblyInfoInputs.cache
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\HelperProject.AssemblyInfo.cs
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\HelperProject.csproj.CoreCompileInputs.cache
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\HelperProject.dll
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\refint\HelperProject.dll
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\HelperProject.pdb
+E:\sampleC#\BankProject\HelperProject\obj\Debug\net6.0\ref\HelperProject.dll
